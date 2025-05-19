@@ -15,13 +15,3 @@ Il a été développé pour apprendre les bases du langage **JavaScript**, en aj
 
 ---
 
-## Arborescence
-
-print-it-carousel/
-├── index.html
-├── assets/
-│ ├── images/
-│ │ └── slideshow/ (les slides)
-│ ├── script.js
-│ └── style.css
-└── README.md
